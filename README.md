@@ -1,2 +1,2 @@
 # Yhatzee
-A yhatzee game done in c
+A Yhatzee game done in C#
